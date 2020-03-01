@@ -8,7 +8,7 @@
 
 ```terraform
 provider "demo" {
-  api_origin = "http://127.0.0.1"
+  api_origin = "https://demo-cloud-prod.panda.k8s.oxs.cz"
   token = "xxx"
 }
 
